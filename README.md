@@ -1,5 +1,5 @@
 # SQL
 
-New Wheels, a vehicle resale company, has experienced declining sales and a drop in new customers each quarter, partly due to negative online feedback and ratings.
+This project focused on addressing challenges faced by a vehicle resale company experiencing declining sales and reduced customer acquisition, influenced by negative online feedback and ratings.
 
-To address these issues, SQL was employed to retrieve and filter relevant data, answer key business questions, and compile a comprehensive report. This report provided insights and recommendations to help the company enhance its strategies and improve overall performance.
+SQL was utilized to extract and analyze relevant data, answer critical business questions, and create a detailed report. The findings and recommendations in this report aimed to help the company refine its strategies and boost overall performance.
